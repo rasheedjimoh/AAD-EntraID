@@ -35,7 +35,8 @@ EntraID needs to know who has access to what resources within your company. It g
 - Windows Server 2022 (DC): Mydomain's Domain Controller
 - Cloud Sync Agent
 
-- 
+
+
 ## Process/Procedure Overview
 
 ### Installation Process:
