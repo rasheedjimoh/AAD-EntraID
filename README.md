@@ -1,4 +1,4 @@
-# Integrating EntraID with On-Prem Active Directory and Cloud Services
+# Integrating AzureAD/EntraID with On-Prem Active Directory and Cloud Services
 
 ## Introduction
 In this lab, we will be focusing on the seamless integration of Azure Active Directory(AAD) / EntraID which will be used to turn our environment with on-prem Active Directory into a hybrid environment by utilizing CloudSync.
