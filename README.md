@@ -65,9 +65,11 @@ EntraID needs to know who has access to what resources within your company. It g
 **Deployment**: Finally, once testing is successful, the Cloud Sync Agent can be deployed across your organization's infrastructure as needed. This may involve installing the agent on additional servers or computers to ensure comprehensive data synchronization across your network. We click **Review and enable** to proceed.
 ![aadsync3](https://github.com/rasheedjimoh/AAD-EntraID/assets/157264080/db612daf-612b-4904-ad0c-d658022c9076)
 
+----
+
+![tempsnip](https://github.com/rasheedjimoh/AAD-EntraID/assets/157264080/3c2390bd-b937-49b2-8474-a9046d90b956)
 
 
 ## Conclusion
 In conclusion, we highlighted the critical role of seamless integration between Azure AD/EntraID, Active Directory, and CloudSync in optimizing access management and security within our organization. By bridging the gap between on-premises and cloud-based systems, we ensure efficient user access control while maintaining data integrity and security across all platforms. This integration not only streamlines access management processes but also enhances collaboration and productivity in an increasingly digital environment.
 
-![tempsnip](https://github.com/rasheedjimoh/AAD-EntraID/assets/157264080/3c2390bd-b937-49b2-8474-a9046d90b956)
