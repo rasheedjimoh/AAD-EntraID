@@ -69,3 +69,5 @@ EntraID needs to know who has access to what resources within your company. It g
 
 ## Conclusion
 In conclusion, we highlighted the critical role of seamless integration between Azure AD/EntraID, Active Directory, and CloudSync in optimizing access management and security within our organization. By bridging the gap between on-premises and cloud-based systems, we ensure efficient user access control while maintaining data integrity and security across all platforms. This integration not only streamlines access management processes but also enhances collaboration and productivity in an increasingly digital environment.
+
+![image](https://github.com/rasheedjimoh/AAD-EntraID/assets/157264080/ae5f0537-1ae2-4293-9751-4b75d12f7baf)
