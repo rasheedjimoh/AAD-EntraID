@@ -4,6 +4,9 @@
 In this lab, we will be focusing on the seamless integration of Azure Active Directory(AAD) / EntraID which will be used to turn our environment with on-prem Active Directory into a hybrid environment by utilizing CloudSync.
 
 
+![aadsync7](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/0ad01670-1d08-497e-9eac-9e0db2040d34)
+
+
 ## Why We Need It
 
 Integrating Azure Active Directory (AAD) or EntraID with on-prem Active Directory and cloud services is essential for modern organizations aiming to streamline access management, enhance security, and foster collaboration across hybrid environments. Here's why this integration is crucial:
@@ -37,11 +40,6 @@ let's simplify it:
 Now, let's connect them:
 
 EntraID needs to know who has access to what resources within your company. It gets this information from your on-prem Active Directory, which contains all the user accounts and permissions. However, if your company also uses cloud-based services (like Google Workspace or Microsoft 365), you need a way to keep EntraID updated with changes made in your on-prem Active Directory. That's where the Cloud Sync Agent comes in. It acts as a bridge, making sure that any changes made in your on-prem Active Directory are synchronized with EntraID, ensuring that everyone has the right access permissions no matter where they're accessing company resources from—whether it's on-site or in the cloud.
-
----------------
-
-![aadsync7](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/0ad01670-1d08-497e-9eac-9e0db2040d34)
-
 
 --------
 
