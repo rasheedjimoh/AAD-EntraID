@@ -4,7 +4,8 @@
 In this lab, we will be focusing on the seamless integration of Azure Active Directory(AAD) / EntraID which will be used to turn our environment with on-prem Active Directory into a hybrid environment by utilizing CloudSync.
 
 
-![aadsync7](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/0ad01670-1d08-497e-9eac-9e0db2040d34)
+![tempsnip](https://github.com/rasheedjimoh/AAD-EntraID/assets/157264080/3c2390bd-b937-49b2-8474-a9046d90b956)
+
 
 
 ## Why We Need It
@@ -24,6 +25,8 @@ Integrating Azure Active Directory (AAD) or EntraID with on-prem Active Director
 6. **Compliance and Governance**: Centralized identity management facilitates compliance with regulatory requirements and internal governance policies. Organizations can enforce access controls, audit user activities, and maintain visibility into identity-related events across hybrid environments, thereby meeting compliance obligations and reducing regulatory risks.
 
 In summary, integrating Azure Active Directory or EntraID with on-prem Active Directory and cloud services is essential for modern organizations seeking to streamline access management, enhance security, foster collaboration, and maintain compliance across hybrid environments. This integration enables unified access management, enhances security, improves operational efficiency, fosters collaboration, and supports scalability and compliance efforts.
+
+![aadsync7](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/0ad01670-1d08-497e-9eac-9e0db2040d34)
 
 ---
 
@@ -85,9 +88,6 @@ EntraID needs to know who has access to what resources within your company. It g
 ![aadsync3](https://github.com/rasheedjimoh/AAD-EntraID/assets/157264080/db612daf-612b-4904-ad0c-d658022c9076)
 
 ----
-
-![tempsnip](https://github.com/rasheedjimoh/AAD-EntraID/assets/157264080/3c2390bd-b937-49b2-8474-a9046d90b956)
-
 
 ## Conclusion
 In conclusion, we highlighted the critical role of seamless integration between Azure AD/EntraID, Active Directory, and CloudSync in optimizing access management and security within our organization. By bridging the gap between on-premises and cloud-based systems, we ensure efficient user access control while maintaining data integrity and security across all platforms. This integration not only streamlines access management processes but also enhances collaboration and productivity in an increasingly digital environment.
